@@ -1,2 +1,0 @@
-Link to data set csv ,as CSV are greate than 25 MB git hub limit
-https://www.kaggle.com/code/miljan/predicting-tags-for-stackoverflow/input
